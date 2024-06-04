@@ -67,10 +67,14 @@ section {
   text-decoration: none;
 }
 
+.nav__btn {
+  color: var(--grey-color);
+}
+
 .btn--black {
   color: #fff;
   text-align: center;
-  background-color: #141414;
+  background-color: var(--grey-color);
 }
 
 /* ------------------------ */
